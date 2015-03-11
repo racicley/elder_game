@@ -1,21 +1,21 @@
 Projeto do Jogo da Velha.
 
-Membros atuantes atÈ o momento(Serve como teste de commit huehue):
+Membros atuantes at√© o momento(Serve como teste de commit huehue):
 
-Victor 'Vit„o' Hugo
+Victor 'Vit√£o' Hugo
+Racicley 'Cley'
 
-
-Nesse arquivo texto estar„o incluÌdas as convencoes do cÛdigo.
+Nesse arquivo texto estar√£o inclu√≠das as convencoes do c√≥digo.
 
 
 
 Sobre nomes:
 
-1 - nomes de mÛdulos em minusculo e com underscore
-2 - vari·veis e mÈtodos em camelCase.
-3 - Classes em mai˙sculo.
+1 - nomes de m√≥dulos em minusculo e com underscore
+2 - vari√°veis e m√©todos em camelCase.
+3 - Classes em mai√∫sculo.
 
-Sobre coment·rios:
+Sobre coment√°rios:
 
-1 - Toda classe deve possuir um coment·rio no comeÁo explicando em linhas gerais as responsabilidades da classe.
+1 - Toda classe deve possuir um coment√°rio no come√ßo explicando em linhas gerais as responsabilidades da classe.
 
